@@ -5,7 +5,7 @@ title: "The Berry Bush"
 # with your folder name, otherwise leave it empty
 baseurl: "/git-wiki-skeleton"
 # (string) Description of your wiki
-description: An assortment of infodumps
+description: "An assortment of infodumps"
 # (boolean) disable edit functionalities (edit/delete/add pages)
 disable_edit: true
 # (boolean) Enable/disable wiki page list in sidebar
