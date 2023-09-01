@@ -1,5 +1,6 @@
-## Docker Reference
-
+---
+title: Docker
+---
 
 ### Running Pygame Apps
 Look, sometimes you just want to run a graphical application in a Docker container.
